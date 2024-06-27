@@ -7,7 +7,7 @@ packages = ["src/test_pypi_tonywu71"]
 
 [project]
 name = 'test-pypi-tonywu71'
-version = "0.0.3"
+version = "0.0.4"
 description = 'Test'
 authors = [{ name = 'Tony Wu' }]
 readme = 'README.md'
